@@ -1,0 +1,21 @@
+body {
+  background: #1b3d82;
+  font-family: Arial; }
+  body .articulo {
+    background: #e9f1f7;
+    width: 500px;
+    padding: 20px; }
+    body .articulo .titulo {
+      color: #f9a03f; }
+    body .articulo .autor {
+      color: #4d5061; }
+    body .articulo p a {
+      color: #f9a03f; }
+    body .articulo div {
+      text-align: center; }
+      body .articulo div a {
+        text-decoration: none;
+        font-size: 25px;
+        color: #f9a03f; }
+        body .articulo div a:hover {
+          text-decoration: underline; }
